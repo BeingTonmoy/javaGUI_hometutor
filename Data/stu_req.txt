@@ -1,0 +1,21 @@
+TeacherDegree : DU
+Qyalification : Computer
+StudentClass : Ten
+StudentPhone : Bangla
+StudentLocation : 1/1
+Time & Date : 13:05 PM, 11/05/2024
+===============================================
+TeacherDegree : BUET
+Qyalification : Bangla,Computer
+StudentClass : 12
+StudentPhone : Bangla
+StudentLocation : 134 West Dhanmondi
+Time & Date : 13:21 PM, 11/05/2024
+===============================================
+TeacherDegree : Dhaka Medical
+Qyalification : Bangla, Biology
+StudentClass : HSC
+StudentPhone : 0176017223
+StudentLocation : 134 West Dhanmondi 
+Time & Date : 13:32 PM, 11/05/2024
+===============================================
